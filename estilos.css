@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: white;
+    margin: 0;
+}
+
+/* HEADER */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}
+
+h1 {
+    color: #ffe81f; /* amarillo Star Wars */
+}
+
+.fecha {
+    color: gray;
+}
+
+/* CONTENIDO */
+main {
+    width: 800px;
+    margin: auto;
+    background-color: #1c1c1c;
+    padding: 20px;
+}
+
+/* SUBTITULOS */
+h2 {
+    color: #ffe81f;
+}
+
+/* IMAGEN */
+img {
+    width: 100%;
+    margin: 20px 0;
+}
+
+/* TEXTO */
+p {
+    line-height: 1.6;
+}
+
+/* LINKS */
+a {
+    color: #4fc3f7;
+}
